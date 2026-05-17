@@ -122,4 +122,4 @@ To run ВЕКТОР you need to add your own documentation to `docs/` and re-run
 
 ---
 
-*Built by Alexander Mogilin · Mango Office L3 Support · 2026*
+*Built by SanMog · Mango Office L3 Support · 2026*
